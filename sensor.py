@@ -2,7 +2,7 @@ import requests
 import time
 import random
 
-WEBHOOK = https://hook.us2.make.com/fwbqvf59fxyv1xsyfptn3ol7nd8ndxfy
+WEBHOOK = "https://hook.us2.make.com/fwbqvf59fxyv1xsyfptn3ol7nd8ndxfy"
 
 while True:
     temperatura = random.randint(30, 50)
